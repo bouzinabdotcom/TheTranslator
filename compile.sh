@@ -1,0 +1,1 @@
+gcc -o test/test main.c app/control/player/player.c app/control/word/word.c app/control/control.c app/messages/messages.c  app/bootstrap.c
